@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m Imad Ibrahim
+- 👋 Hi, I’m A V MOHAMED MANSOOR
 - 🌱 I’m currently learning Django + React js
 - 💞 Coding is like playing games for me
 - 📫 How to reach me @imadibrahim164@gmail.com
