@@ -6,8 +6,8 @@
 - 👋 Hi, I’m A V MOHAMED MANSOOR
 - 🌱 I’m currently learning Django + React js
 - 💞 Coding is like playing games for me
-- 📫 How to reach me @imadibrahim164@gmail.com
-- 🧰 <a href="https://imad-ibrahim-portfolio.netlify.app/">My Portfolio</a>
+- 📫 How to reach me @avmansoor2000@gmail.com
+- 🧰 <a href="">My Portfolio</a>
 
 
 
