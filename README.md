@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m A V MOHAMED MANSOOR
-- 🌱 I’m currently learning Django + React js
+- 🌱 I’m currently learning MERN STACK
 - 💞 Coding is like playing games for me
 - 📫 How to reach me @avmansoor2000@gmail.com
 - 🧰 <a href="">My Portfolio</a>
@@ -13,9 +13,7 @@
 
 
 
-<!---
 
---->
 
 
 
