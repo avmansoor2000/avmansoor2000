@@ -41,3 +41,11 @@
 </a>
 <br>
 <br>
+
+| Skill         | Proficiency |
+| ------------- | ----------- |
+| Programming   | ████████   |
+| Data Analysis | ██████     |
+| Web Development | █████    |
+| Design        | █████      |
+| Communication | ███████    |
