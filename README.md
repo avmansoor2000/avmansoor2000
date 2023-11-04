@@ -12,6 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 ## 📫 Contact Me
 
+<a href="<a href="https://twitter.com/">">
+  <img src="[https://img.shields.io/twitter/follow/avmansoo000?style=social&label=Follow%20@avmansoo000](https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353)" alt="Twitter Follow">
+</a>
 - Twitter: (https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353)](https://twitter.com/avmansoor2000)
 - LinkedIn: [av]](https://www.linkedin.com/in/mohamed-mansoor-00b948242/)
 - Email: avmansoor2023@gmail.com
