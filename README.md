@@ -1,9 +1,12 @@
 
+
 - 👋 Hi, I’m A V MOHAMED MANSOOR
 - 🌱 I’m currently learning MERN STACK
 - 💞 Coding is like playing games for me
 - 📫 How to reach me @avmansoor2000@gmail.com
 - 🧰 <a href="">My Portfolio</a>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -13,7 +16,6 @@
 - LinkedIn: [[Mohamed Mansoor]](https://www.linkedin.com/in/mohamed-mansoor-00b948242/)
 - Email: [avmansoor2023@gmail.com]
 
-## &#x1f4c8; GitHub Status
 
 
 <a href="https://github.com/avmansoor2000 ">
