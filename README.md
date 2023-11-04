@@ -1,24 +1,11 @@
 ![Test Automation](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif)
 
 
-
-
 - 👋 Hi, I’m A V MOHAMED MANSOOR
 - 🌱 I’m currently learning MERN STACK
 - 💞 Coding is like playing games for me
 - 📫 How to reach me @avmansoor2000@gmail.com
 - 🧰 <a href="">My Portfolio</a>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imad-ibrahim-k" alt="imad-ibrahim-k" /></a> </p>
@@ -30,10 +17,7 @@
 - LinkedIn: [[Mohamed Mansoor]](https://www.linkedin.com/in/mohamed-mansoor-00b948242/)
 - Email: [avmansoor2023@gmail.com]
 
-
-
 ## &#x1f4c8; GitHub Status
-
 
 
 <a href="https://github.com/avmansoor2000 ">
