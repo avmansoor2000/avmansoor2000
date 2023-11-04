@@ -1,5 +1,3 @@
-// ![Test Automation](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif)
-
 
 - 👋 Hi, I’m A V MOHAMED MANSOOR
 - 🌱 I’m currently learning MERN STACK
@@ -7,8 +5,6 @@
 - 📫 How to reach me @avmansoor2000@gmail.com
 - 🧰 <a href="">My Portfolio</a>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imad-ibrahim-k" alt="imad-ibrahim-k" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 ## 📫 Contact Me
@@ -25,6 +21,4 @@
 </a>
 <br>
 <br>
-
-![Skills Table](https://raw.githubusercontent.com/avmansoor2000/skills-table.md/main/skills-table.md)
 
