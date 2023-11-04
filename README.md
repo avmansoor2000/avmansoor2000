@@ -13,8 +13,8 @@
 ## 📫 Contact Me
 
 - Twitter: [@Mohamed Mansoor](https://twitter.com/avmansoor2000)
-- LinkedIn: [[Mohamed Mansoor]](https://www.linkedin.com/in/mohamed-mansoor-00b948242/)
-- Email: [avmansoor2023@gmail.com]
+- LinkedIn: [https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353]](https://www.linkedin.com/in/mohamed-mansoor-00b948242/)
+- Email: avmansoor2023@gmail.com
 
 
 
