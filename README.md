@@ -78,13 +78,6 @@ const mansoor = {
 <!-- Live Contribution Wave Graph -->
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=avmansoor2000&bg_color=0D1117&color=00F7FF&line=A78BFA&point=FF4D8D&area=true&area_color=312E81&hide_border=true&radius=12&custom_title=31-Day%20Contribution%20Pulse" alt="Contribution Activity Graph" />
 
-<br />
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=avmansoor2000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 <br />
